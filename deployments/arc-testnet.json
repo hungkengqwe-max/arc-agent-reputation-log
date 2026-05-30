@@ -1,0 +1,9 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcAgentReputationLog",
+  "address": "0x8EAdAe4B016a1bd222aAE3603Ea1C37C08972Fe0",
+  "txHash": null,
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC",
+  "note": "Deployment confirmed by non-empty code at nonce 4; tx hash not captured because cast timed out after mining."
+}
